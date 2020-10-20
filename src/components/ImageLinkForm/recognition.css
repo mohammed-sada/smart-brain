@@ -1,0 +1,17 @@
+.bg-primary {
+    background: rgba(5, 84, 94, 1);
+}
+
+.btn {
+    border: none;
+}
+.input {
+    height: 1.5rem;
+    margin-right: 0.7rem;
+    background-color: transparent;
+    border: 1px solid #bbb;
+    padding: 1rem;
+}
+.input::placeholder {
+    color: rgb(46, 43, 43);
+}
